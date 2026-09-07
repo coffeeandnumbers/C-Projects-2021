@@ -1,4 +1,4 @@
-# University C++ Projects 2020-2021
+# Some C++ Projects 2020-2021
 
 **deque.cpp**
 
