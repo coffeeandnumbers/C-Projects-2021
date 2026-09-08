@@ -1,5 +1,7 @@
 # Some C++ Projects 2020-2021
 
+The following projects were completed as a part of a C++ course 2020-2021.
+
 **deque.cpp**
 
 Implementation of a deque with custom random-access iterators.
